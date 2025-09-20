@@ -7,7 +7,7 @@ Each week/folder has its own README with details, setup steps, and screenshots.
 
 ## 📑 Contents
 
-- [Week 0: Tool Setup](./Week0/README.md)
+- [Week 0: Tool Setup](./Week_0/README.md)
 
 ---
 
